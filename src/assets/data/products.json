@@ -1,0 +1,192 @@
+[
+    {
+        "id": 1,
+        "name": "Realme 14X",
+        "description": "6000mAh battery, 5G connectivity, and IP69 splash-proof rating.",
+        "price": 299,
+        "image": "/images/product1.jpg",
+        "category": "Mobile Phones",
+        "brand": "Realme",
+        "rating": 4.5
+    },
+    {
+        "id": 2,
+        "name": "LG Washing Machine",
+        "description": "7kg front-load washing machine with smart inverter technology.",
+        "price": 599,
+        "image": "/images/product2.jpg",
+        "category": "Home Appliances",
+        "brand": "LG",
+        "rating": 4.3
+    },
+    {
+        "id": 3,
+        "name": "Apple MacBook Pro 16-inch",
+        "description": "M2 Max chip, 16GB RAM, 512GB SSD, and stunning Retina display.",
+        "price": 2499,
+        "image": "/images/product3.jpg",
+        "category": "Laptops",
+        "brand": "Apple",
+        "rating": 5.0
+    },
+    {
+        "id": 4,
+        "name": "iPhone 16",
+        "description": "A15 Bionic chip, 128GB storage, and 6.1-inch Super Retina XDR display.",
+        "price": 1199,
+        "image": "/images/product4.jpg",
+        "category": "Mobile Phones",
+        "brand": "Apple",
+        "rating": 4.7
+    },
+    {
+        "id": 5,
+        "name": "iPhone Pro Max 15",
+        "description": "A16 Bionic chip, 256GB storage, and 6.7-inch ProMotion display.",
+        "price": 1399,
+        "image": "/images/product5.jpg",
+        "category": "Mobile Phones",
+        "brand": "Apple",
+        "rating": 4.9
+    },
+    {
+        "id": 6,
+        "name": "Asus Vivobook 15",
+        "description": "Intel Core i5, 8GB RAM, 512GB SSD, and lightweight design.",
+        "price": 799,
+        "image": "/images/product6.jpg",
+        "category": "Laptops",
+        "brand": "Asus",
+        "rating": 4.2
+    },
+    {
+        "id": 7,
+        "name": "Samsung Galaxy S23",
+        "description": "Snapdragon 8 Gen 2, 128GB storage, and triple camera setup.",
+        "price": 999,
+        "image": "/images/product7.jpg",
+        "category": "Mobile Phones",
+        "brand": "Samsung",
+        "rating": 4.6
+    },
+    {
+        "id": 8,
+        "name": "Sony WH-1000XM5",
+        "description": "Industry-leading noise cancellation and up to 30 hours of battery life.",
+        "price": 399,
+        "image": "/images/product8.jpg",
+        "category": "Headphones",
+        "brand": "Sony",
+        "rating": 4.8
+    },
+    {
+        "id": 9,
+        "name": "HP Envy x360",
+        "description": "Convertible laptop with AMD Ryzen 5, 8GB RAM, and 256GB SSD.",
+        "price": 899,
+        "image": "/images/product9.jpg",
+        "category": "Laptops",
+        "brand": "HP",
+        "rating": 4.4
+    },
+    {
+        "id": 10,
+        "name": "Canon EOS R50",
+        "description": "24.2 MP mirrorless camera with 4K video recording and dual pixel AF.",
+        "price": 1299,
+        "image": "/images/product10.jpg",
+        "category": "Cameras",
+        "brand": "Canon",
+        "rating": 4.7
+    },
+    {
+        "id": 11,
+        "name": "Samsung 55-inch QLED TV",
+        "description": "4K UHD resolution, Quantum Dot technology, and HDR10+ support.",
+        "price": 999,
+        "image": "/images/product11.jpg",
+        "category": "Televisions",
+        "brand": "Samsung",
+        "rating": 4.5
+    },
+    {
+        "id": 12,
+        "name": "Fitbit Versa 4",
+        "description": "Advanced health and fitness tracking with built-in GPS.",
+        "price": 229,
+        "image": "/images/product12.jpg",
+        "category": "Wearables",
+        "brand": "Fitbit",
+        "rating": 4.3
+    },
+    {
+        "id": 13,
+        "name": "Dell XPS 13 Plus",
+        "description": "Intel Core i7, 16GB RAM, 512GB SSD, and InfinityEdge display.",
+        "price": 1399,
+        "image": "/images/product13.jpg",
+        "category": "Laptops",
+        "brand": "Dell",
+        "rating": 4.6
+    },
+    {
+        "id": 14,
+        "name": "Dyson V15 Detect",
+        "description": "Cordless vacuum cleaner with laser dirt detection and HEPA filter.",
+        "price": 749,
+        "image": "/images/product14.jpg",
+        "category": "Home Appliances",
+        "brand": "Dyson",
+        "rating": 4.7
+    },
+    {
+        "id": 15,
+        "name": "Google Pixel 7",
+        "description": "Tensor G2 chip, 128GB storage, and exceptional AI-powered camera.",
+        "price": 899,
+        "image": "/images/product15.jpg",
+        "category": "Mobile Phones",
+        "brand": "Google",
+        "rating": 4.6
+    },
+    {
+        "id": 16,
+        "name": "Bose QuietComfort Earbuds II",
+        "description": "Best-in-class noise cancellation and immersive sound quality.",
+        "price": 299,
+        "image": "/images/product16.jpg",
+        "category": "Headphones",
+        "brand": "Bose",
+        "rating": 4.8
+    },
+    {
+        "id": 17,
+        "name": "Sony PlayStation 5",
+        "description": "Next-gen gaming console with lightning-fast load times and 4K gaming.",
+        "price": 499,
+        "image": "/images/product17.jpg",
+        "category": "Gaming",
+        "brand": "Sony",
+        "rating": 5.0
+    },
+    {
+        "id": 18,
+        "name": "Microsoft Surface Pro 9",
+        "description": "Intel Core i7, 16GB RAM, 1TB SSD, and detachable keyboard.",
+        "price": 1799,
+        "image": "/images/product18.jpg",
+        "category": "Laptops",
+        "brand": "Microsoft",
+        "rating": 4.5
+    },
+    {
+        "id": 19,
+        "name": "Lenovo Legion 5 Pro",
+        "description": "AMD Ryzen 7, 16GB RAM, NVIDIA RTX 3060, and 165Hz display.",
+        "price": 1499,
+        "image": "/images/product19.jpg",
+        "category": "Laptops",
+        "brand": "Lenovo",
+        "rating": 4.7
+    }
+]
